@@ -1,5 +1,5 @@
 print("ML Project - Experiment 1")
 
-accuracy = 0.90
+accuracy = 0.92
 
-print("Improved Model Accuracy:", accuracy)
+print("Model Accuracy:", accuracy)
